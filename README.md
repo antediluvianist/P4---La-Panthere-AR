@@ -14,7 +14,8 @@
          '--..__..--'                              /   /   /    |
                                                   /   /   /     |      :
                                                  :   :   :     :      :
-                                                :   :   :      :</pre>
+                                                :   :   :      :
+</pre>
 ///GENERAL///
 
 This is a SEO school project, which contains La Panthère : a webdesign company.
