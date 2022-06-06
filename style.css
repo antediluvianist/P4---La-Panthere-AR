@@ -776,6 +776,7 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+    position: relative;
 }
 
 .btn-atomic-tangerine {
@@ -890,6 +891,12 @@ h4 {
 }
 
 @media (max-width: 767px) {
+
+    .center-adjust {
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
