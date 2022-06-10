@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="Default">
+<html lang="fr">
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="Entreprise web design Lyon, Agence design web Lyon, création site web, web design, site internet, agence design">
@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <link rel="shortcut icon" type="image/png" href="favicon.jpg">
     
-	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="./css/et-line.min.css">
+	<link rel="stylesheet" type="text/css" href="./css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="./css/et-line.css">
 	
     
-	<script src="./js/jquery-2.1.0.min.js"></script>
-	<script src="./js/bootstrap.min.js"></script>
-	<script src="./js/blocs.min.js"></script>
+	<script src="./js/jquery-2.1.0.js"></script>
+	<script src="./js/bootstrap.js"></script>
+	<script src="./js/blocs.js"></script>
 	<script src="./js/jqBootstrapValidation.js"></script>
 	<script src="./js/formHandler.js"></script>
     <title>Contact</title>
@@ -48,7 +48,7 @@
 					<li>
 					</li>
 					<li>
-						<a href="page-contact.html">page2 &gt;</a>
+						<a href="page-contact.html">Contact</a>
 					</li>
 				</ul>
 			</div>
@@ -82,27 +82,27 @@
 			<div class="col-sm-6">
 				<form id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
 					<div class="form-group">
-						<label>
+						<label for="name">
 							Nom
 						</label>
-						<input id="name" class="form-control" required />
+						<input id="name" class="form-control" required tabindex="0"/>
 					</div>
 					<div class="form-group">
-						<label>
+						<label for="email">
 							Adresse email
 						</label>
-						<input id="email" class="form-control" type="email" required />
+						<input id="email" class="form-control" type="email" required tabindex="1"/>
 					</div>
 					<div class="form-group">
-						<label>
+						<label for="input_504">
 							Comment nous avez-vous connu ?
 						</label>
-						<input class="form-control" type="email" required id="input_504" />
+						<input class="form-control" type="input_504" required id="input_504" tabindex="2"/>
 					</div>
 					<div class="form-group">
-						<label>
+						<label for="description">
 							Brief de votre projet (Ajoutez autant de détails que nécessaire)<br>
-						</label><textarea id="message" class="form-control" rows="4" cols="50" required></textarea>
+						</label><textarea id="description" class="form-control" rows="4" cols="50" required tabindex="3"></textarea>
 					</div> 
 					<button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">
 						Envoyer
@@ -134,23 +134,23 @@
 				</p>
 				<div class="row row-no-gutters social">
 					<div class="col-sm-3">
-						<div class="text-center">
-							<a class="social" href="index.html"><span class="fa fa-twitter icon-md"></span></a>
+						<div class="text-center nowrap">
+							<a class="social white ml" href="index.html" alt="Lien vers Twitter"><span class="fa fa-twitter icon-md ml"></span>Twitter</a>
 						</div>
 					</div>
 					<div class="col-sm-3">
-						<div class="text-center">
-							<a class="social" href="index.html"><span class="fa fa-facebook icon-md"></span></a>
+						<div class="text-center nowrap">
+							<a class="social white ml" href="index.html" alt="Lien vers Facebook"><span class="fa fa-facebook icon-md ml"></span>Facebook</a>
 						</div>
 					</div>
 					<div class="col-sm-3">
-						<div class="text-center">
-							<a class="social" href="index.html"><span class="fa fa-dribbble icon-md"></span></a>
+						<div class="text-center nowrap">
+							<a class="social white ml" href="index.html" alt="Lien vers Dribble"><span class="fa fa-dribbble icon-md ml"></span>Dribble</a>
 						</div>
 					</div>
 					<div class="col-sm-3">
-						<div class="text-center">
-							<a class="social" href="index.html"><span class="fa fa-instagram icon-md"></span></a>
+						<div class="text-center nowrap">
+							<a class="social white ml" href="index.html" alt="Lien vers Instagram"><span class="fa fa-instagram icon-md ml"></span>Instagram</a>
 						</div>
 					</div>
 				</div>
