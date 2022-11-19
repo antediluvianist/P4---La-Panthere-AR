@@ -10,8 +10,15 @@
 888      888  888      888       888  888 888  888 Y88b.  888  888 Y8b.     888    Y8b.     
 88888888 "Y888888      888       "Y888888 888  888  "Y888 888  888  "Y8888  888     "Y8888 </pre>
 
-Project school (SEO)
+- SEO, cybersecurity and accessibility project
 
-This is the website version after corrections.
+- This is the website version after corrections
 
-Original website is here : https://github.com/All-hexes/Original---La-Panthere/tree/main
+Original (unoptimized) website repo here : https://github.com/All-hexes/Original---La-Panthere/tree/main
+
+Link (optimized) : https://all-hexes.github.io/P4---La-Panthere-AR/
+
+# TECH
+
+- Lighthouse
+- Wave
