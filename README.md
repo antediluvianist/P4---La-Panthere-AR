@@ -10,7 +10,7 @@
 888      888  888      888       888  888 888  888 Y88b.  888  888 Y8b.     888    Y8b.     
 88888888 "Y888888      888       "Y888888 888  888  "Y888 888  888  "Y8888  888     "Y8888 </pre>
 
-- This is the website version after corrections
+Optimization of an pre-existing website
 
 - SEO & performance optimization
 
