@@ -20,9 +20,14 @@ Original (unoptimized) website repo here : https://github.com/All-hexes/Original
 
 Link (optimized) : https://all-hexes.github.io/P4---La-Panthere-AR/
 
+# Results
+
+![p4](https://user-images.githubusercontent.com/104685771/202857046-daecf450-9f0e-4453-bbc3-06a1a6a7b964.JPG)
+
 # TECH
 
 - Lighthouse
 - GTmetrix
 - KWFinder
 - Wave
+- NVDA
