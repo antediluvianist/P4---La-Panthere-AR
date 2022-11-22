@@ -36,4 +36,6 @@ Original (unoptimized) website repo here : https://github.com/All-hexes/Original
 - Wave
 - NVDA
 
-Link (optimized) : https://all-hexes.github.io/P4---La-Panthere-AR/
+# DEPLOYMENT LINK (optimized)
+
+https://all-hexes.github.io/P4---La-Panthere-AR/
