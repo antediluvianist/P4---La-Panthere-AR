@@ -20,7 +20,13 @@ Original (unoptimized) website repo here : https://github.com/All-hexes/Original
 
 # Results
 
+(Lighthouse)
+
 ![p4](https://user-images.githubusercontent.com/104685771/202857046-daecf450-9f0e-4453-bbc3-06a1a6a7b964.JPG)
+
+(WAVE)
+
+![wave P4](https://user-images.githubusercontent.com/104685771/203191204-14d9ad31-2e86-445a-a5b2-84be99794e55.JPG)
 
 # TECH
 
